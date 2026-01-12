@@ -1,0 +1,32 @@
+{
+ "Expenses": [
+  {
+   "id": 1,
+   "time": "2026-01-12T14:38:09.42763+01:00",
+   "category": "Genenral",
+   "amount": 20,
+   "description": "Lunch"
+  },
+  {
+   "id": 2,
+   "time": "2026-01-12T14:38:33.097925+01:00",
+   "category": "Genenral",
+   "amount": 20,
+   "description": "Lunch"
+  },
+  {
+   "id": 3,
+   "time": "2026-01-12T14:38:39.076179+01:00",
+   "category": "Transport",
+   "amount": 15,
+   "description": "Taxi"
+  },
+  {
+   "id": 4,
+   "time": "2026-01-12T14:38:47.6368+01:00",
+   "category": "Food",
+   "amount": 5,
+   "description": "Coffee"
+  }
+ ]
+}
